@@ -26,6 +26,6 @@ def play_game():
     return
 play_game()
 
-print("Game over!")
+print("Game over!!")
         
         
