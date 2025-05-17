@@ -24,8 +24,12 @@ def play_game():
         else:
             print("請輸入提示範圍內的數字")
     return
-play_game()
 
+while (True) :
+    play_game()
+    play_again=input("Play again ?(y/n)")
+    if(play_again == 'n') :
+        break
 print("Game over!!")
         
         
