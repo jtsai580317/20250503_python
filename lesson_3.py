@@ -24,3 +24,4 @@ while(True):
     else:
         print("請輸入提示範圍內的數字")
         
+        
