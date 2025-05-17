@@ -20,7 +20,7 @@ while(True):
         elif (keyin < target):
             min = keyin
             print("再大一點")
-        print("x您猜了!",count,"次\n")
+        print("xx您猜了!",count,"次\n")
     else:
         print("請輸入提示範圍內的數字")
         
